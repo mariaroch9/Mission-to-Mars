@@ -1,4 +1,4 @@
-id,terrestial_date,sol,ls,month,min-temp,pressure
+id,terrestrial_date,sol,ls,month,min_temp,pressure
 2,2012-08-16,10,155,6,-75.0,739.0
 13,2012-08-17,11,156,6,-76.0,740.0
 24,2012-08-18,12,156,6,-76.0,741.0
